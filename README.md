@@ -7,6 +7,5 @@
 5. code
 6.conditions
 7.loops
-8shell topics
-6. making mistakes
+
  
