@@ -7,5 +7,6 @@
 5. code
 6.conditions
 7.loops
+practicing 
 
  
